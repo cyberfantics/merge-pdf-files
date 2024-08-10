@@ -96,4 +96,4 @@ This script is provided as-is. You are free to modify and use it according to yo
 You can find the repository for this script at [GitHub - cyberfantics/merge-pdf-files](https://github.com/cyberfantics/merge-pdf-files/).
 
 ## Developer
-Mansoor Bukhari
+Syed Mansoor ul Hassan Bukhari
